@@ -1,0 +1,13 @@
+fieldset {
+	width: 500px;
+}
+
+label {
+	float: left;
+	width: 200px;
+}
+
+.form_get {
+	float: left;
+	margin-right: 50px;
+}
